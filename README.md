@@ -8,6 +8,6 @@ The main report is `Trends in Data Science.pptx`
 
 Code used for the report can be found in `analysis.ipynb`
 
-## Reproduce code
+## Dependencies
 
-To run `analysis.ipynb`, install packages in `requirements.txt` in a virtual environment.
+The dependencies for `analysis.ipynb` may be reproduced by installing packages in `requirements.txt` in a virtual environment.
